@@ -1,0 +1,11 @@
+{
+    "nombre": "Ricardo Erazo",
+    "edad": 19,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Futbol", "Natacion", "Gimnasio", "Aprender cosas nuevas"],
+    "noGustos": ["Despertarse temprano", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://images.ecestaticos.com/3GMc6ZuW8JwsjzGM7Wc74KP4mO8=/0x136:2271x1413/1200x1200/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4d8%2F7d2%2Ff91%2F4d87d2f9141d839c78f232015f44c5eb.jpg"
+}
+
+  
